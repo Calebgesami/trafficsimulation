@@ -90,17 +90,7 @@ Fixed Signal Average Time: 42.1 s
 Adaptive Signal Average Time: 31.8 s
 ```
 
----
 
-# 🔬 Future Improvements
-
-* Machine Learning traffic signal optimization
-* Multi-intersection simulation
-* Real-time visualization
-* Integration with real traffic datasets
-* Reinforcement learning traffic control
-
----
 
 **🤝 Contributing
 **
